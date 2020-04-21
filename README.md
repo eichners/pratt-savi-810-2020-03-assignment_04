@@ -102,7 +102,7 @@ List and describe any type of data you'd like to include but had difficulty trac
 ## Technical Requirements
 
 #### Python Libraries
-List any Python libraries you think you may need. Desribe what you may use them for. 
+List any Python libraries you think you may need. Describe what you may use them for. 
 
 * Matplotlib: for plotting, bounding box
 * Seaborn: for its data viz and plotting library, color palettes 
@@ -110,7 +110,6 @@ List any Python libraries you think you may need. Desribe what you may use them 
 * numpy: to query tabular data in shapefiles and look at subset statistics if relevant
 * spyder: a notebook to save final code blocks in -- I also like the variable explorer, options for viewing data and plots, etc. and might find it useful to use this. If it takes too much time though, I'll stick with Jupyter. 
 * Fiona: for reading in spatial data
-(I could use advice about this -- how to focus on the most relevant parts of these libraries)
 
 #### Library Wish List
 Also note any libraries or functionality that you may need that you're not sure exists. Try your best to articulate this in words. This will be helpful if I can provide any libraries to suggest for use in the project. 
@@ -123,7 +122,7 @@ Also note any libraries or functionality that you may need that you're not sure 
 	 
 Success will involve scripts that allow me to quickly explore data in shapefiles and Excel sheets, apply plotting parameters (such as legend styles, font styling, categorical and quantifiable data styling, plot composition and sizing, bounding boxes / extents, single and graduated marker sizes, use of custom color palettes and color ramps, etc.), and export near presentation-ready plots to a vector format. Ideally this scripts will be worked into functions so they are easily applied to multiple datasets.
 - Even if I'm not able to create functions for all my goals, any scripts I can develop can be modified and useful in the future.
-- I'm not sure which tasks I'll be able to fully automate. I'd like to build some plots and chose what can be automated and work on 1 at a time from those code blocks.
+- I'm not sure which tasks I'll be able to fully automate. I'd like to build some plots and choose what can be automated and work on 1 at a time from those code blocks.
 
 ## Project Execution Plan Outline
 Please include a short outline describing the steps you'd imagine going through. 
@@ -156,9 +155,9 @@ End of week (4/27) through May 6:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MDkxNTM4LDU4NzA0NzQ4OCwtMjQ1NT
-c4MTksLTE4NjY1Njg0MTEsMTMyMjM2MjU1OSwxMzI4Njk2NDk0
-LDk2NzA1NDI4OSwtMzg3MTI4MjUsLTIwNjIzMzU1ODgsLTE1Nz
-Q0MjY5MTIsMTk3OTU3ODMzNCw5MTU0MjMwNDAsMTUzMjQxNjg4
-MCwyNTU3MDg0ODIsLTIwMDA4Njg1MDhdfQ==
+eyJoaXN0b3J5IjpbLTcxNjEzMTg4NSw5OTUwOTE1MzgsNTg3MD
+Q3NDg4LC0yNDU1NzgxOSwtMTg2NjU2ODQxMSwxMzIyMzYyNTU5
+LDEzMjg2OTY0OTQsOTY3MDU0Mjg5LC0zODcxMjgyNSwtMjA2Mj
+MzNTU4OCwtMTU3NDQyNjkxMiwxOTc5NTc4MzM0LDkxNTQyMzA0
+MCwxNTMyNDE2ODgwLDI1NTcwODQ4MiwtMjAwMDg2ODUwOF19
 -->
