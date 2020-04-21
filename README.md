@@ -79,9 +79,8 @@ List any possible articles, resources or analysis or anything useful and include
 #### Resources List
 
 * [Spyder](https://www.spyder-ide.org/), mainly because it's already in use for the water quality report. 
-* SAVI 810 lessons -- I plan to go through the lessons and do some follow up reading on resoure sites 
-* [Flowing Data](https://flowingdata.com/) -- more focused on R but I like the tutorials and discussions about data visualization on that site for inspiration and guidance.
-* I'm open to suggestions!
+* SAVI 810 lessons -- I plan to go through the lessons and do some follow up reading on resource sites 
+* [Flowing Data](https://flowingdata.com/) -- more focused on R but there are a number of articles about data visualization with python, geopandas and maplotlib.
  
  
 ## Input Data 
@@ -89,7 +88,7 @@ List any possible articles, resources or analysis or anything useful and include
 #### Data Sources List 
 List any possible data including links with any input data sources you'll be using. 
 
-* /Users/saraeichner/Documents/GitHub/HEP_data
+* /Users/saraeichner/Documents/GitHub/final_project_eichner/HEP_data
 * Data comes from the [NY-NJ Harbor Estuary Program](https://www.hudsonriver.org/estuary-program), which is part of the Hudson River Foundation.
 	* spatial (point and polygon), such as sampling locations, sources of contaminants, watershed polygons and a study area polygon
 	 * non-spatial data that includes water quality measurements in the Hudson such as pathogens, dissolved oxygen, and pH. Non spatial data is collected from the same sampling locations and is all formatted and processed in the same way in terms of annual geomeans and monthly samples. 
@@ -157,9 +156,9 @@ End of week (4/27) through May 6:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTU3ODE5LC0xODY2NTY4NDExLDEzMj
-IzNjI1NTksMTMyODY5NjQ5NCw5NjcwNTQyODksLTM4NzEyODI1
-LC0yMDYyMzM1NTg4LC0xNTc0NDI2OTEyLDE5Nzk1NzgzMzQsOT
-E1NDIzMDQwLDE1MzI0MTY4ODAsMjU1NzA4NDgyLC0yMDAwODY4
-NTA4XX0=
+eyJoaXN0b3J5IjpbOTk1MDkxNTM4LDU4NzA0NzQ4OCwtMjQ1NT
+c4MTksLTE4NjY1Njg0MTEsMTMyMjM2MjU1OSwxMzI4Njk2NDk0
+LDk2NzA1NDI4OSwtMzg3MTI4MjUsLTIwNjIzMzU1ODgsLTE1Nz
+Q0MjY5MTIsMTk3OTU3ODMzNCw5MTU0MjMwNDAsMTUzMjQxNjg4
+MCwyNTU3MDg0ODIsLTIwMDA4Njg1MDhdfQ==
 -->
